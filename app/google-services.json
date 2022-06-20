@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38131889590",
+    "project_id": "quizsipintar",
+    "storage_bucket": "quizsipintar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38131889590:android:4599bd99b4256b93f37d17",
+        "android_client_info": {
+          "package_name": "com.example.quizsipintar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38131889590-sins2s3tn36f622ape3ts6e98skqmtiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-XGzPtqgcqdk2Oa5alNf2JB5uA9mqRts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38131889590-sins2s3tn36f622ape3ts6e98skqmtiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
